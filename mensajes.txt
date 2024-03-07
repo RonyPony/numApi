@@ -1,0 +1,8 @@
+From: string
+To: string
+Text: string
+MediaUrls: string
+From: string
+To: string
+Text: string
+MediaUrls: string
